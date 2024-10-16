@@ -5,3 +5,5 @@ faiss-cpu
 python-dotenv
 langchain-community
 pypdf
+streamlit
+streamlit-lottie
